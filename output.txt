@@ -1,0 +1,6 @@
+-------------------
+This is a simple and easy to use todo app.
+Type 'help' to know how to use this app.
+-------------------
+What do you want to do? See 'help' for a list of available options.
+>
